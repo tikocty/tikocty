@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://github.com/tikocty/tikocty/blob/main/Yellow%20Red%20Tan%20Playful%20&%20Celebratory%20Traditional%20Graduation%20Banner.png?raw=true" alt=”my banner”>
+
+</p>
 ![](https://github.com/tikocty/tikocty/blob/main/Yellow%20Red%20Tan%20Playful%20&%20Celebratory%20Traditional%20Graduation%20Banner.png?raw=true)
 
 ```

@@ -35,9 +35,9 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![ZAPIER](https://img.shields.io/badge/ZAPIER-FF4A00.svg?&style=flat&logo=zapier&logoColor=white)&nbsp;
-![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
-![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;
-![Google Analytics](https://img.shields.io/badge/GOOGLEANALYTICS-E37400.svg?&style=flat&logo=googleanalytics&logoColor=black)&nbsp;
-![Google Ad](https://img.shields.io/badge/GOOGLEADS-4285F4.svg?&style=flat&logo=googleads&logoColor=black)&nbsp;
+![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=white)&nbsp;
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
+![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=white)&nbsp;
+![Google Analytics](https://img.shields.io/badge/GOOGLEANALYTICS-E37400.svg?&style=flat&logo=googleanalytics&logoColor=white)&nbsp;
+![Google Ad](https://img.shields.io/badge/GOOGLEAdS-4285F4.svg?&style=flat&logo=googleads&logoColor=white)&nbsp;
 

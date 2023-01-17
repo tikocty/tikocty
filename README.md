@@ -37,4 +37,4 @@ me.say_hi()
 ![ZAPIER](https://img.shields.io/badge/ZAPIER-FF4A00.svg?&style=flat&logo=zapier&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
-![PREMIEREPRO](https://img.shields.io/badge/ADOBEPREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;\
+![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;\

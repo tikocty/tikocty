@@ -37,6 +37,10 @@ me.say_hi()
 ![ZAPIER](https://img.shields.io/badge/ZAPIER-FF4A00.svg?&style=flat&logo=zapier&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=white)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
+
+
+![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=white)&nbsp;
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
 ![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=white)&nbsp;
 ![Google Analytics](https://img.shields.io/badge/GOOGLE_ANALYTICS-E37400.svg?&style=flat&logo=googleanalytics&logoColor=white)&nbsp;
 ![Google Ad](https://img.shields.io/badge/GOOGLE_ADS-4285F4.svg?&style=flat&logo=googleads&logoColor=white)&nbsp;

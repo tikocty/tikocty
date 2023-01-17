@@ -43,6 +43,3 @@ me.say_hi()
 <a href="mailto:tikocty@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.facebook.com/ty.choi.73/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/choi.ty/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikocty&layout=compact)](https://github.com/tikocty)

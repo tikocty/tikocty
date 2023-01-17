@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/tikocty/tikocty/blob/main/Yellow%20Red%20Tan%20Playful%20&%20Celebratory%20Traditional%20Graduation%20Banner.png?raw=true)
+![Hello All](https://github.com/tikocty/tikocty/blob/main/Yellow%20Red%20Tan%20Playful%20&%20Celebratory%20Traditional%20Graduation%20Banner.png?raw=true)
 
 ```
 class software_engineer:
@@ -37,4 +37,4 @@ me.say_hi()
 ![ZAPIER](https://img.shields.io/badge/ZAPIER-FF4A00.svg?&style=flat&logo=zapier&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
-![PREMIEREPRO](https://img.shields.io/badge/Adobe Premiere Pro-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;\
+![PREMIEREPRO](https://img.shields.io/badge/AdobePremierePro-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;\

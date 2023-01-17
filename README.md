@@ -29,12 +29,15 @@ me.say_hi()
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![ZAPIER](https://img.shields.io/badge/ZAPIER-FF4A00.svg?&style=flat&logo=zapier&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
-![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;\
+![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
+![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;
+![Google Analytics](https://img.shields.io/badge/GOOGLEANALYTICS-E37400.svg?&style=flat&logo=googleanalytics&logoColor=black)&nbsp;
+![PREMIERE PRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;
+

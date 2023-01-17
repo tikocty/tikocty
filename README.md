@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Hello All](https://github.com/tikocty/tikocty/blob/main/Yellow%20Red%20Tan%20Playful%20&%20Celebratory%20Traditional%20Graduation%20Banner.png?raw=true)
 
+### 🌱 ABOUT ME
 ```
 class software_engineer:
 
@@ -21,12 +22,15 @@ me = software_engineer()
 me.say_hi()
 ```
 
-
+### 📬 LET'S GET CONNECTED
 <a href="https://www.linkedin.com/in/tiko-choi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tikocty@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.facebook.com/ty.choi.73/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/choi.ty/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
+<summary><b>:🧠: &nbsp;Main tech knowledge</b></summary>
+  <br/>
+### 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;

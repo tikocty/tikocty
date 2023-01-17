@@ -37,4 +37,4 @@ me.say_hi()
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=black)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
-![PREMIERPRO](https://img.shields.io/badge/PREMIERPRO-9999FF.svg?&style=flat&logo=adobe-premierpro&logoColor=black)&nbsp;\
+![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobe-premierepro&logoColor=black)&nbsp;\

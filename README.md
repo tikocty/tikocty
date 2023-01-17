@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/tikocty/tikocty/blob/main/markus-spiske-iar-afB0QQw-unsplash-1-1280x640.jpeg?raw=true)
+![](https://github.com/tikocty/tikocty/blob/main/Yellow%20Red%20Tan%20Playful%20&%20Celebratory%20Traditional%20Graduation%20Banner.png?raw=true)
 
 ```
 class software_engineer:

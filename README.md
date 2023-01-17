@@ -39,5 +39,5 @@ me.say_hi()
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 ![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;
 ![Google Analytics](https://img.shields.io/badge/GOOGLEANALYTICS-E37400.svg?&style=flat&logo=googleanalytics&logoColor=black)&nbsp;
-![PREMIERE PRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=black)&nbsp;
+![Google Ad](https://img.shields.io/badge/GOOGLEADS-4285F4.svg?&style=flat&logo=googleads&logoColor=black)&nbsp;
 

@@ -25,7 +25,7 @@ me.say_hi()
 <a href="https://www.linkedin.com/in/tiko-choi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:tikocty@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.facebook.com/ty.choi.73/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-
+  <a href="https://www.instagram.com/choi.ty/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
@@ -35,10 +35,6 @@ me.say_hi()
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
 ![ZAPIER](https://img.shields.io/badge/ZAPIER-FF4A00.svg?&style=flat&logo=zapier&logoColor=white)&nbsp;
-![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=white)&nbsp;
-![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
-
-
 ![XD](https://img.shields.io/badge/XD-FFC0CB.svg?&style=flat&logo=adobe-xd&logoColor=white)&nbsp;
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=white)&nbsp;
 ![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=white)&nbsp;

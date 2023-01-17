@@ -40,5 +40,5 @@ me.say_hi()
 ![PREMIEREPRO](https://img.shields.io/badge/PREMIEREPRO-9999FF.svg?&style=flat&logo=adobepremierepro&logoColor=white)&nbsp;
 ![Google Analytics](https://img.shields.io/badge/GOOGLE_ANALYTICS-E37400.svg?&style=flat&logo=googleanalytics&logoColor=white)&nbsp;
 ![Google Ad](https://img.shields.io/badge/GOOGLE_ADS-4285F4.svg?&style=flat&logo=googleads&logoColor=white)&nbsp;
-![Google Marketing Platform](https://img.shields.io/badge/GOOGLE_MARKETING_PLATFORM-4285F4.svg?&style=flat&logo=googlemarketplatform&logoColor=white)&nbsp;
+![Google Marketing Platform](https://img.shields.io/badge/GOOGLE_MARKETING_PLATFORM-4285F4.svg?&style=flat&logo=googlemarketingplatform&logoColor=white)&nbsp;
 
